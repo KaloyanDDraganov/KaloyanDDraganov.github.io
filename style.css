@@ -1,0 +1,14 @@
+#map{
+    width: 100%;
+    height: 50em;
+
+    margin: 2em 0em 2em 0em;
+}
+
+#heading{
+    margin-top: 4em;
+}
+
+#footer{
+    margin-top: 4em;
+}
